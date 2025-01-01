@@ -30,7 +30,6 @@ git clone https://github.com/djelacik/push_swap
 ## Usage
 
 - `make`: Compiles the executable `push_swap`.
-- `make bonus`: Compiles the executable `checker`.
 
 ### Running push_swap
 To run `push_swap` and see the list of operations that sort the provided numbers, use the following command:
