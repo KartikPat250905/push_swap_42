@@ -25,7 +25,7 @@ The Push_swap project is an exercise in sorting data on a stack with a limited s
 ## Installation
 Clone this repository and use the Makefile to compile the project:
 ```
-git clone https://github.com/djelacik/push_swap
+git clone https://github.com/KartikPat250905/push_swap
 ```
 ## Usage
 
